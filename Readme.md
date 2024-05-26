@@ -2,6 +2,8 @@
 
 Implementation of **LLM-as-a-Judge** using the GPT-4-Turbo model for self-reflecting and judging the response.
 
+Reference: https://arxiv.org/abs/2401.10020
+
 ## Usage
 
 ### Step 1: Clone the repository
